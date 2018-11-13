@@ -710,6 +710,10 @@ http://www.templatemo.com/tm-515-eatery
     padding-bottom: 0;
   }
 
+  .con{
+    margin-top: 25em;
+  }
+
   #contact .text-success,
   #contact .text-danger {
     display: none;
